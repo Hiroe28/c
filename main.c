@@ -8,6 +8,7 @@
 #define FIELD_COUNT 15 // フィールド数15を#define
 #define OK 0
 #define NG 1
+// 修正したよ
 
 // 課題1 郵便番号データ用の構造体
 typedef struct {
